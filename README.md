@@ -11,6 +11,7 @@ estimated to affect over 93 million people worldwide. Progression of vision impa
 significantly hindered if diabetic retinopathy is detected early on; however, detection is
 inherently difficult as the disease often shows few symptoms until it is too late to provide
 effective treatment.
+
 Currently, detecting diabetic retinopathy is a time-consuming and manual process that
 involves a retina specialist evaluating color fundus photographs of the retina based on the
 presence of lesions associated with the vascular abnormalities caused by the disease. The delay
